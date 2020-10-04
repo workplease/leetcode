@@ -39,10 +39,4 @@ public class solution3 {
         }
         return -1;
     }
-
-    public static void main(String[] args) {
-        int[] nums ={2, 3, 1, 0, 6, 5, 7};
-        solution3 solution3 = new solution3();
-        System.out.println(solution3.findRepeatNumber(nums));
-    }
 }
